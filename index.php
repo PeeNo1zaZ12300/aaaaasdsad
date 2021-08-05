@@ -2,7 +2,7 @@
 //CREDIT | BOSSNZ
 include 'uidfreefire.class.php';
 //key antirecaptcha ไปหาซื้อกันเองนะครัชชช
-$token_antirecaptcha = "";
+$token_antirecaptcha = "ODcwNTA4NDQ4MTU5MjU2NjE2.YQNyKw.E5o6MzQUOGLtyAepH4XC0ZL4gJU";
 $topup = New topup_freefire($token_antirecaptcha);
 $uid = '950516437';
 //login ด้วย uid freefire ก่อน
